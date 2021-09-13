@@ -258,8 +258,8 @@ export const ExactNumbers = styled.div`
 // Footer part
 
 export const Footer = styled.div`
-margin-top: 240px;
-display: flex;
+ margin-top: 240px;
+ display: flex;
 /* align-items: center; */
 `;
 
@@ -308,20 +308,20 @@ export const Input = styled.input`
   border: 0;
   outline: none;
   border-bottom: 1px solid #000000;
-    font-weight: 500;
+  font-weight: 500;
     font-size: 25px;
     line-height: 37px;
     color: #486958;
 `;
 
 export const TextArea = styled.textarea`
-  width: 50%;
-  height: 80px;
-  outline: none;
-  font-weight: 400;
-  font-size: 23px;
-  line-height: 30px;
-  color: #486958;
-  padding: 5px;
-  box-sizing: border-box;
+ width: 50%;
+ height: 80px;
+outline: none;
+font-weight: 400;
+font-size: 23px;
+line-height: 30px;
+color: #486958;
+padding: 5px;
+box-sizing: border-box;
 `;
