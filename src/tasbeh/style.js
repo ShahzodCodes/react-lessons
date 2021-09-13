@@ -25,7 +25,6 @@ export const Number = styled.div`
   font-size: 60px;
   font-weight: 900;
   color: #ffea00;
-  
 `;
 
 export const Button = styled.div`
